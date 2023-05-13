@@ -1,6 +1,7 @@
 # Rocarstor Car Website
 
-Author: Kamente Justin
+AUTHOR: Kamente Justin
+
 
 # Description
 RolarCaster is car platform that provides an appealing user intereface for users, potential customers, to buy a car or hire a car. 
@@ -11,10 +12,14 @@ Provides list of car types to filter the search and provide a simpified search f
 -To filter the cars acccording to their name and model to easen the search for the page users.
 
 ## Technologies
--HTML
+-HTML  
 -CSS
 
 ## Program Setup
+
+## ghpages 
+
+
 
 ## License
 MIT License
