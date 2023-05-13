@@ -1,13 +1,13 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 40px;
+    padding: 10px;
+    font-size: 22px;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
 }
 
 .header ul {
@@ -33,7 +33,7 @@ body {
     color: #333;
     font-weight: bold;
 }
-.footer ul{
+ul{
     list-style: none;
 }
 .list3{
@@ -46,6 +46,31 @@ form input{
     display: flex;
     padding: 10px;
 }
-form > p{
-    font-size: 25px;
+
+#getstarted{
+    background-color: orange;
+}
+
+.buttons button{
+    border: 1px solid orange;
+    padding: 10px;
+    background-color: orange;
+    margin: 10px;
+}
+#two ul {
+    list-style: none;
+    display: flex;
+}
+
+#two li {
+    margin: 0 10px; 
+}
+
+#two button {
+    border: 2px solid gray;
+    background-color: transparent;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px gray;
 }
