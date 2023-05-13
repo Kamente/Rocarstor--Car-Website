@@ -26,6 +26,7 @@ h3{
 .header ul li:hover{
     box-shadow: 5px 5px 5px gray;
     background-color: orange;
+    margin: 2px;
 }
 
 .header ul li a {
@@ -73,9 +74,9 @@ form input{
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px black;
 }
-.car1{
+.car1{ 
     border: 1px solid #ccc;
     padding: 20px;
     margin: 30px;
@@ -83,19 +84,18 @@ form input{
 .container{
     display: flex;
     flex-direction: row;
-    gap: 50px;
- 
+    gap: 50px; 
 }
 button{
     background-color: orange;
     border: 1px solid gray;
-    padding: 5px;
+    padding: 10px;
     margin: 10px;
     cursor: pointer;
 }
 #land{
     float: right;
     margin-right: 300px;
-    position: relative;
+    position: relative; 
     bottom:200px;
 }
