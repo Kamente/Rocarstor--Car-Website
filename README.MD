@@ -9,6 +9,7 @@ Provides list of car types to filter the search and provide a simpified search f
 
 ## Features:
 -To browse a wide range of car models and their specifications. 
+
 -To filter the cars acccording to their name and model to easen the search for the page users.
 
 ## Technologies
