@@ -85,6 +85,7 @@ form input{
     display: flex;
     flex-direction: row;
     gap: 50px; 
+    margin: 30px;
 }
 button{
     background-color: orange;
@@ -98,4 +99,27 @@ button{
     margin-right: 300px;
     position: relative; 
     bottom:200px;
+}
+.name{
+    text-align: center;
+}
+.download{
+    height: 200px;
+    width: 90%;
+    background-color: beige;
+    box-shadow: 5px 6px 5px gray;
+    display: flex;
+    padding: 5px;
+}
+#downloads1{
+    margin-top: 80px;
+    margin-left: 300px;
+
+}
+#downloads2{
+    margin-top: 105px;
+}
+#downloads3{
+    margin: -30px 0 -30px 150px;
+
 }
