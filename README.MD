@@ -18,11 +18,12 @@ Provides list of car types to filter the search and provide a simpified search f
 
 ## Program Setup
 
-## ghpages 
+
+## Github Pages 
 
 
 
-## License
+## Copyright and License
 MIT License
 
 Copyright (c) 2023 Kamente Justin 
