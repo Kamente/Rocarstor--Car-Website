@@ -42,7 +42,7 @@ h3{
     color: #333;
     font-weight: bold;
 }
-ul{
+.services{
     list-style: none;
 }
 
@@ -63,9 +63,6 @@ form input{
     background-color: var(--orange);
 }
 
-#two{
-    /* margin-top: 200px; */
-}
 
 .image-icons {
     width:25px;
@@ -86,13 +83,7 @@ a{
     padding: 20px;
 }
 
-#two button {
-    /* border: 2px solid gray;
-    
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer; */
-}
+
 .car1{ 
     border: 1px solid #ccc;
     padding: 20px;
@@ -117,7 +108,7 @@ button{
     text-align: center;
 }
 .download{
-    height: 250px;
+    height: 300px;
     width: 90%;
     background-color: rgb(255, 254, 198);
     box-shadow: 5px 6px 5px gray;
@@ -126,14 +117,7 @@ button{
     padding: 5px;
     gap:100px;
 }
-/* #downloads1{
-    margin-top: 80px;
-    margin-left: 200px;
 
-}
-#downloads2{
-    margin-top: 105px;
-} */
 #downloads3{
     margin: -30px 0 -20px 150px;
 
@@ -176,9 +160,7 @@ button{
 
 .clients{
     text-align: center;
-    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
 }
-
 .download .txt{
     width:300px;
 
@@ -190,7 +172,6 @@ button{
 
 .download .imgs{
     display:flex;
-    /* background-color: blue; */
     padding:0;
     justify-content: space-between;
     align-items: center;
@@ -199,6 +180,5 @@ button{
 
 
 .download .first{
-    /* background-color: red; */
     height:fit-content;
 }
