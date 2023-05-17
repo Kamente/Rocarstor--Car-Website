@@ -5,6 +5,7 @@
 
 *{
     border-radius: 10px;
+    font-weight: bold;
 }
 body {
     margin: 40px;
@@ -42,7 +43,7 @@ h3{
     color: #333;
     font-weight: bold;
 }
-.services{
+ul{
     list-style: none;
 }
 
@@ -57,6 +58,7 @@ form input{
     border: 3px solid var(--orange);
     display: flex;
     padding: 10px;
+    margin: 5px;
 }
 
 #getstarted{
@@ -108,7 +110,7 @@ button{
     text-align: center;
 }
 .download{
-    height: 300px;
+    height: 250px;
     width: 90%;
     background-color: rgb(255, 254, 198);
     box-shadow: 5px 6px 5px gray;
@@ -117,7 +119,6 @@ button{
     padding: 5px;
     gap:100px;
 }
-
 #downloads3{
     margin: -30px 0 -20px 150px;
 
@@ -159,8 +160,14 @@ button{
 }
 
 .clients{
-    text-align: center;
+    text-align: left;
+
 }
+
+.clients p{
+    font-size: 15px;
+}
+
 .download .txt{
     width:300px;
 
@@ -181,4 +188,11 @@ button{
 
 .download .first{
     height:fit-content;
+}
+.person{
+    display: flex;
+    justify-content: space-between;
+}
+.list3 ul li{
+    list-style: circle;
 }
