@@ -17,9 +17,9 @@ Provides list of car types to filter the search and provide a simpified search f
 -CSS
 
 ## Program Setup
-> Clone repo from my Github to editor
-> Can edit to meet th requirements of the user
-> Deploy 
+1. Clone repo from my Github to editor
+2. Can edit to meet the requirements of the user
+3. Deploy 
 
 ## Github Pages 
 https://kamente.github.io/Rocarstor--Car-Website/
