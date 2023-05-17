@@ -161,7 +161,11 @@ button{
 
 .clients{
     text-align: left;
-   
+
+}
+
+.clients p{
+    font-size: 15px;
 }
 
 .download .txt{
