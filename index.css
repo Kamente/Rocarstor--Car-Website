@@ -204,5 +204,8 @@ button{
 }
 .person{
     display: flex;
-    margin: 10px;
+    justify-content: space-between;
+}
+.list3 ul li{
+    list-style: circle;
 }
