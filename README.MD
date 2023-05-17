@@ -15,13 +15,17 @@ Provides list of car types to filter the search and provide a simpified search f
 ## Technologies
 -HTML  
 -CSS
-
 ## Program Setup
-
+1. Clone repo from my Github to editor
+2. Can edit to meet the requirements of the user
+3. Deploy 
 
 ## Github Pages 
+https://kamente.github.io/Rocarstor--Car-Website/
 
 
+## Website Sketch 
+<img width="1440" alt="Landing-page" src="https://github.com/Kamente/Rocarstor--Car-Website/assets/86584314/6a264f68-691e-4e54-9579-aaab8ac26df0">
 
 ## Copyright and License
 MIT License
